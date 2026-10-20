@@ -14,5 +14,5 @@ sequenceDiagram
     BD-->>Servico: disponível
     Servico->>BD: registrar empréstimo
     Servico-->>Tela: sucesso
-    Tela-->>Aluno: Comprovante
+    Tela-->>Aluno: Comprovante de Empréstimo
 ```
